@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-core
+langchain-openai
+langgraph
+tavily-python
+langchain-tavily
+beautifulsoup4
+lxml
+requests
+httpx
+fastapi
+uvicorn
+python-dotenv
+pydantic
